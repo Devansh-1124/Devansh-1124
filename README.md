@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devansh-1124
 - 👀 I’m interested in Programming , Development and similar stuff.
-- 🌱 I’m currently learning JAVA and DSA 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JAVA and Kotlin. 
+- 💞️ I’m looking to collaborate on Android Projects.
 - 📫 How to reach me ...
 
 <!---
