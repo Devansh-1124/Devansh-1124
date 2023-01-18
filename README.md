@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devansh
 - 👀 I’m interested in Programming , Development and similar stuff.
-- 🌱 I’m currently learning JAVA and Kotlin. 
+- 🌱 I’m currently learning Js and Kotlin. 
 - 💞️ I’m looking to collaborate on Android/Java/Kotlin Projects.
 
 
